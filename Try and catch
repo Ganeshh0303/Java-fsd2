@@ -3,7 +3,6 @@ package Demo;
 public class TryCatch {
 	public static void main(String [] args) {
 		try {
-			
 		
 //			int num=30/0;
 			
@@ -32,8 +31,6 @@ public class TryCatch {
 			
 		}
 		
-		
-	}
-		
+	}	
 
 }
